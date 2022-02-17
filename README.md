@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clinton Imaro</h1>
 <h3 align="center">A passionate developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/iamclintonima" target="blank"><img src="https://img.shields.io/twitter/follow/iamclintonima?logo=twitter&style=for-the-badge" alt="iamclintonima" /></a> </p>
-
 - 🔭 I’m currently working on **Code Space Website**
 
 - 🌱 I’m currently learning **React Native**
