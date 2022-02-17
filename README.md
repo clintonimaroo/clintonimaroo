@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Clinton Imaro</h1>
 <h3 align="left">A passionate developer from Nigeria</h3>
 
+- 👀  I’m a 17 years old Software Developer, Graphics Designer e.t.c
+
 - 🔭 I’m currently working on **Code Space Website**
 
 - 🌱 I’m currently learning **React Native**
