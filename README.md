@@ -3,7 +3,7 @@
 
 - 👀  I’m a 17 years old Software Developer, Graphics Designer e.t.c
 
-- 🔭 I’m currently working on **Code Space Website**
+- 🔭 I’m currently working on **Afro Watch**
 
 - 🌱 I’m currently learning **React Native**
 
