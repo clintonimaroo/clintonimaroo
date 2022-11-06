@@ -8,9 +8,9 @@
 
 - 💬 Ask me anything about **Coding,Web3,Solidity,Web development,Mobile Development and Blockchain**
 
-- 🌱 I’m currently into **block chain, with the use of Meta mask, Web3, and solidity**
+- 🌱 I’m currently into **Blockchain, Web3,solidity, Flutter, React, Web Development, and Mobile Development**
 
-- 👨‍💻 I’m looking to collaborate on **any project using NodeJS, Typescript, React, and block chain**
+- 👨‍💻 I’m looking to collaborate on **any project involved in Front & Backend, Flutter, NodeJS, Typescript, React, and Blockchain**
 
 - 📄 Portfolio [https://clintonimaro.com/](https://clintonimaro.com/)
 
