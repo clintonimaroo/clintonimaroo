@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clinton Imaro</h1>
 <h3 align="center">Lover of Open Source contribution and Blockchain Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clintonimaroo" alt="clintonimaroo" /></a> </p>
 
 - 🔭 I’m currently working on **React & Flutter as a side Booster**
 
