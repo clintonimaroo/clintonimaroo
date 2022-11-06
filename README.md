@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clinton Imaro</h1>
-<h3 align="center">Lover of Open Source contribution and Blockchain Development</h3>
+<h3 align="right">Lover of Open Source contribution and Blockchain Development</h3>
 
 
 - 🔭 I’m currently working on **React & Flutter as a side Booster**
