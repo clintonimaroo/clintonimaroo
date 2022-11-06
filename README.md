@@ -1,7 +1,9 @@
-<h1 align="start">Hi 👋, I'm Clinton Imaro</h1>
+<h1 align="start">THE FUTURE</h1>
 <h3 align="start">Lover of Open Source contribution and Blockchain Development</h3>
 
 
+
+- 👋 Hi, I’m Clinton Imaro
 - 🔭 I’m currently working on **React & Flutter as a side Booster**
 
 - 💬 Ask me anything about **Coding,Web3,Solidity,Web development,Mobile Development and Blockchain**
