@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Clinton Imaro</h1>
+<h1 align="start">Hi 👋, I'm Clinton Imaro</h1>
 <h3 align="start">Lover of Open Source contribution and Blockchain Development</h3>
 
 
