@@ -1,4 +1,3 @@
-<h1 align="start">EXECUTING THE FUTURE</h1>
 <h3 align="start">Lover of Open Source contribution and Blockchain Development</h3>
 
 
